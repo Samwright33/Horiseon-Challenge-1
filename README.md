@@ -18,3 +18,5 @@ Addressed ticket items in preexisting code for Horiseon Social Media Marketing a
 ## Link to Deployed Application
 Link: https://samwright33.github.io/Horiseon-Challenge-1/ 
 
+## Screenshot
+![Screenshot of the page](./assets/images/read-me.png)
